@@ -10,20 +10,19 @@ I not only watch sports though, I also play them. I have played hockey since I w
 
 ## A Little More About Me
 
-🛠️ I’m currently working on:
+### 🛠️ I’m currently developing:
  - A Virtual Poker Chip Application (Stay Tuned... 👀)
  - My personal [website](adam-montgomery.ca)
  - Some finishing touches on [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app)
 
-📖 I’m currently learning:
+### 📖 I’m currently learning:
  - The project development lifecycle
  - How to build and deploy web-apps
  - Investing principles
  - Django
 
-💬 Reach out to me about:
- - Technology (of course)
- - AI
+### 💬 Reach out to me about:
+ - Any of my projects
  - Music
  - Philosophy
  - Or anything else really, I'm a very chatty guy
@@ -40,5 +39,17 @@ I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315
 |     3| Python       |
 |     4| JavaScript       |
 |     5| Vibe Coding       |
+
+</details>
+
+<details>
+<summary>My favourite projects</summary>
+
+| Built by | Languages |
+|-----:|-----------|
+|     Me, [Ben Probert](github.com/Benguin25), and [Nathan Probert](github.com/nathan-probert)| [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app) |
+|     Not me| [Moneypuck](moneypuck.com)    |
+|     Me| [My personal website](adam-montgomery.ca)       |
+|     [Nathan Probert](github.com/nathan-probert) | [Imaginate](https://playimaginate.com/) |
 
 </details>
