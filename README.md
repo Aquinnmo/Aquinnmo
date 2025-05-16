@@ -1,4 +1,4 @@
-## Hi there I'm Adam 👋
+## Hi there, I'm Adam! 👋
 
 I am a computer science major at the University of Guelph who's going into my second year. I am enrolled in co-op and am actively looking for my next position! I am searching for the summer 2026 term, and am more than open to discussing any opportunity!
 
