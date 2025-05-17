@@ -12,7 +12,7 @@ I not only watch sports, though, I also play them. I have played hockey since I 
 
 ### 🛠️ I’m currently developing:
  - A Virtual Poker Chip Application (Stay Tuned... 👀)
- - My personal [website](adam-montgomery.ca)
+ - My personal [website](https://adam-montgomery.ca)
  - Some finishing touches on [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app)
 
 ### 📖 I’m currently learning:
