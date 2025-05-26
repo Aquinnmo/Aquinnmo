@@ -11,7 +11,7 @@ I not only watch sports, though, I also play them. I have played hockey since I 
 ## A Little More About Me
 
 ### 🛠️ I’m currently developing:
- - Chip Champ! [Read about it here](chip-champ.adam-montgomery.ca)
+ - Chip Champ! [Read about it here](https://chip-champ.adam-montgomery.ca)
  - My personal [website](https://adam-montgomery.ca)
  - Some finishing touches on [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app)
 
