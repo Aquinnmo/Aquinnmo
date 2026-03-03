@@ -1,6 +1,8 @@
 ## Hi there, I'm Adam! 👋
 
-I am a computer science major at the University of Guelph who's going into my second year. I am enrolled in co-op and am actively looking for my next position! I am searching for the summer 2026 term, and am more than open to discussing any opportunity!
+I am a computer science major at the University of Guelph in my second year. I am enrolled in co-op and am actively looking for my next position! I am searching for the fall 2026 term, and am more than open to discussing any opportunity!
+
+I will be joining SPS Commerce in the summer as a Systems Automation Framework Co-op and I can't wait to join the team. I am going to learn so much.
 
 I am an avid communicator who is exceedingly social. I thrive in team environments where you can build strong connections with my peers. I have always prided myself on being a leader who knows when to step back and let others take the reins as well.
 
