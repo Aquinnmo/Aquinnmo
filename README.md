@@ -11,15 +11,14 @@ I not only watch sports, though, I also play them. I have played hockey since I 
 ## A Little More About Me
 
 ### 🛠️ I’m currently developing:
- - Chip Champ! [Read about it here](https://chip-champ.adam-montgomery.ca)
+ - Pump Pal [Read about it here](https://adam-montgomery.ca/projects)
  - My personal [website](https://adam-montgomery.ca)
  - Some finishing touches on [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app)
 
 ### 📖 I’m currently learning:
  - The project development lifecycle
- - How to build and deploy web apps
+ - How to build and deploy mobile applications
  - Investing principles
- - Django
 
 ### 💬 Reach out to me about:
  - Any of my projects
@@ -35,10 +34,9 @@ I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java |
-|     2| C    |
-|     3| Python       |
-|     4| JavaScript       |
-|     5| Vibe Coding       |
+|     2| Python       |
+|     3| TypeScript       |
+|     4| Vibe Coding       |
 
 </details>
 
@@ -47,9 +45,9 @@ I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315
 
 | Built by | Languages |
 |-----:|-----------|
+|     Me| [Rock, Paper, Scissors For Nerds](rps.adam-montgomery.ca)       |
 |     Me, [Ben Probert](github.com/Benguin25), and [Nathan Probert](github.com/nathan-probert)| [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app) |
 |     Not me| [Moneypuck](moneypuck.com)    |
-|     Me| [My personal website](adam-montgomery.ca)       |
-|     [Nathan Probert](github.com/nathan-probert) | [Imaginate](https://playimaginate.com/) |
+|     Me| [Pump Pal](pump.adam-montgomery.ca)       |
 
 </details>
