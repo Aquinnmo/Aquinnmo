@@ -1,8 +1,10 @@
-## Hi there, I'm Adam! 👋
+## Hey there, I'm Adam! 👋
 
-I am a computer science major at the University of Guelph in my second year. I am enrolled in co-op and am actively looking for my next position! I am searching for the fall 2026 term, and am more than open to discussing any opportunity!
+I am a computer science major at the University of Guelph in my third year. I am enrolled in co-op and am actively looking for my next position! I am searching for the summer 2027 term, and am more than open to discussing any opportunity!
 
-I will be joining SPS Commerce in the summer as a Systems Automation Framework Co-op and I can't wait to join the team. I am going to learn so much.
+I am currently employed by SPS Commerce as a Software Engineering Intern and I have loved working with the team.
+
+I will be joining TextNow in the fall as a Full Stack Developer Co-op and I can't wait to join the team!
 
 I am an avid communicator who is exceedingly social. I thrive in team environments where you can build strong connections with my peers. I have always prided myself on being a leader who knows when to step back and let others take the reins as well.
 
@@ -13,9 +15,9 @@ I not only watch sports, though, I also play them. I have played hockey since I 
 ## A Little More About Me
 
 ### 🛠️ I’m currently developing:
- - Pump Pal [Read about it here](https://adam-montgomery.ca/projects)
- - My personal [website](https://adam-montgomery.ca)
- - Some finishing touches on [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app)
+ - [Timber](https://timber.adam-montgomery.ca): an iOS and Android workout app designed to help you track your workouts while minimizing your effort
+ - [Moneyball](https://aquinnmo.github.io/Moneyball): A self-hosted post-game MLB analysis website designed to figure out why my poor Blue Jays are underperforming this season
+ - Cherrypick: An NHL pick em game for iOS and Android
 
 ### 📖 I’m currently learning:
  - The project development lifecycle
@@ -26,7 +28,7 @@ I not only watch sports, though, I also play them. I have played hockey since I 
  - Any of my projects
  - Music
  - Philosophy
- - Or anything else, really, I'm a very chatty guy
+ - Or anything else, really, I'm always happy to chat
  
 I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315) if you want to chat! 
 
@@ -35,7 +37,7 @@ I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Java |
+|     1| Kotlin |
 |     2| Python       |
 |     3| TypeScript       |
 |     4| Vibe Coding       |
