@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Montgomery — game tape</title>
+  <desc id="desc">A dark navy scouting board introducing Adam Montgomery as a software engineer at TextNow focused on mobile products and self-hosted analysis.</desc>
+  <style>
+    :root {
+      --color-paper: oklch(17% 0.022 253);
+      --color-ice: oklch(94% 0.014 235);
+      --color-muted: oklch(72% 0.024 235);
+      --color-accent: oklch(61% 0.205 28);
+      --font-display: "Big Shoulders Display", "Arial Narrow", sans-serif;
+      --font-body: "IBM Plex Sans", Arial, sans-serif;
+    }
+    .paper { fill: var(--color-paper); }
+    .ice { fill: var(--color-ice); }
+    .muted { fill: var(--color-muted); }
+    .accent { fill: var(--color-accent); }
+    .display { font-family: var(--font-display); font-style: normal; font-weight: 800; letter-spacing: 0.03em; }
+    .body { font-family: var(--font-body); font-style: normal; font-weight: 500; }
+    .utility { font-family: var(--font-body); font-style: normal; font-weight: 700; letter-spacing: 0.1em; }
+    .tiny { font-size: 14px; }
+    .label { font-size: 16px; }
+    .value { font-size: 22px; }
+  </style>
+
+  <rect class="paper" width="1200" height="420" rx="20" />
+  <path class="accent" d="M0 397H1200V407H0Z" />
+  <circle class="accent" cx="72" cy="72" r="14" />
+  <text class="utility muted tiny" x="104" y="63">SCOUTING REPORT / 2026</text>
+  <text class="utility ice tiny" x="104" y="87">SOFTWARE ENGINEERING</text>
+
+  <text class="display ice" x="70" y="205" font-size="104">ADAM</text>
+  <text class="display ice" x="70" y="289" font-size="82">MONTGOMERY</text>
+  <text class="body muted" x="74" y="322" font-size="21">Builds mobile products and self-hosted analysis tools.</text>
+
+  <text class="utility muted label" x="665" y="120">POSITION</text>
+  <text class="display ice value" x="850" y="120">SOFTWARE ENGINEER</text>
+  <text class="utility muted label" x="665" y="168">PLAYSTYLE</text>
+  <text class="display ice value" x="850" y="168">MOBILE / DATA / PRODUCT</text>
+  <text class="utility muted label" x="665" y="216">FORMER TEAM</text>
+  <text class="display ice value" x="850" y="216">SPS COMMERCE</text>
+  <text class="utility muted label" x="665" y="264">CURRENT TEAM</text>
+  <text class="display ice value" x="850" y="264">TEXTNOW</text>
+  <text class="utility muted label" x="665" y="312">FREE AGENCY</text>
+  <text class="display ice value" x="850" y="312">SUMMER ’27 CO-OP TERM</text>
+
+  <text class="utility muted tiny" x="70" y="382">GUELPH / ONTARIO / CANADA</text>
+  <text class="utility muted tiny" x="1130" y="382" text-anchor="end">AQUINNMO</text>
+</svg>

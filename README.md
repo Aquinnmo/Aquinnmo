@@ -1,57 +1,44 @@
-## Hey there, I'm Adam! 👋
+<p align="center">
+  <img
+    src="./assets/game-tape.svg"
+    alt="Adam Montgomery's game tape: a software engineer at TextNow building mobile products and self-hosted analysis tools."
+    width="1200"
+  />
+</p>
 
-I am a computer science major at the University of Guelph in my third year. I am enrolled in co-op and am actively looking for my next position! I am searching for the summer 2027 term, and am more than open to discussing any opportunity!
+# Adam Montgomery
 
-I am currently employed by SPS Commerce as a Software Engineering Intern and I have loved working with the team.
+I’m a third-year Computer Science co-op student at the University of Guelph and a Software Engineer at TextNow. After interning at SPS Commerce, I’m hitting free agency for my Summer 2027 co-op.
 
-I will be joining TextNow in the fall as a Full Stack Developer Co-op and I can't wait to join the team!
+## The scouting report
 
-I am an avid communicator who is exceedingly social. I thrive in team environments where you can build strong connections with my peers. I have always prided myself on being a leader who knows when to step back and let others take the reins as well.
+- **Position:** Software engineer with a product-first instinct
+- **Play style:** Communicative, social, and at home in collaborative teams
+- **Five star tools:** Kotlin, Python, and TypeScript
+- **Away from the keyboard:** Hockey player, Blue Jays optimist, BBQ enthusiast, and devoted listener of A$AP Rocky, Young Thug, and Pink Floyd
 
-I also love music, some of my favourite artists being A$AP Rocky, Young Thug, and Pink Floyd. In my spare time, I'll either be jamming out to these artists or watching sports. My favourite teams are the Chicago Blackhawks, Toronto Blue Jays, and the Vegas Golden Knights. My favourite hockey player of all time is Duncan Keith.
+## Featured plays
 
-I not only watch sports, though, I also play them. I have played hockey since I was very young, moving up through the competitive leagues until moving into the more relaxed ones nowadays. I have always played defence, making both Duncan Keith and Cale Makar exceptional role models for my play style.
+### [Timber](https://timber.adam-montgomery.ca): a workout app that *doesn't* suck
 
-## A Little More About Me
+An iOS and Android workout app designed to make the logging workout less painful and stay super simple.
 
-### 🛠️ I’m currently developing:
- - [Timber](https://timber.adam-montgomery.ca): an iOS and Android workout app designed to help you track your workouts while minimizing your effort
- - [Moneyball](https://aquinnmo.github.io/Moneyball): A self-hosted post-game MLB analysis website designed to figure out why my poor Blue Jays are underperforming this season
- - Cherrypick: An NHL pick em game for iOS and Android
+### [Moneyball](https://aquinnmo.github.io/Moneyball): post-game MLB analytics
 
-### 📖 I’m currently learning:
- - The project development lifecycle
- - How to build and deploy mobile applications
- - Investing principles
+A self-hosted analysis site built to answer a familiar question to Blue Jays fans: **how** are we so bad this ?
 
-### 💬 Reach out to me about:
- - Any of my projects
- - Music
- - Philosophy
- - Or anything else, really, I'm always happy to chat
- 
-I'm best reached on [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315) if you want to chat! 
+## Current assignment
 
-<details>
-<summary>My top languages</summary>
+I’m building on my experience at SPS Commerce at my current role as a full stack developer at TextNow. I am continuing to learn the full project-development lifecycle and how to deploy mobile applications. I make sure to keep a strong emphasis on what is useful, not just fun to build.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Kotlin |
-|     2| Python       |
-|     3| TypeScript       |
-|     4| Vibe Coding       |
+## The archive
 
-</details>
+A few more projects I want to call out, but are either very early in development or I am not working on as actively: 
 
-<details>
-<summary>My favourite projects</summary>
+- [Cherrypick](https://github.com/Aquinnmo) · NHL pick ’em for iOS and Android
+- [Rock, Paper, Scissors for Nerds](https://rps.adam-montgomery.ca) · a small game with unnecessary ambition
+- [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app) · built with [Ben Probert](https://github.com/Benguin25) and [Nathan Probert](https://github.com/nathan-probert)
 
-| Built by | Languages |
-|-----:|-----------|
-|     Me| [Rock, Paper, Scissors For Nerds](rps.adam-montgomery.ca)       |
-|     Me, [Ben Probert](github.com/Benguin25), and [Nathan Probert](github.com/nathan-probert)| [_Am I Cooked?_](https://am-i-cooked-zeta.vercel.app) |
-|     Not me| [Moneypuck](moneypuck.com)    |
-|     Me| [Pump Pal](pump.adam-montgomery.ca)       |
+## About Free Agency
 
-</details>
+The best way to reach me is [LinkedIn](https://linkedin.com/in/adam-montgomery-05a936315). If you want to talk products, sports, music, philosophy, or a possible co-op opportunity, I’m always up for the conversation. I am looking for my next co-op abroad in either the US or Europe!
